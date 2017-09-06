@@ -1,0 +1,28 @@
+{
+  "name": "holo-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jthansen22/holo-bot.git"
+  },
+  "author": "Justin Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jthansen22/holo-bot/issues"
+  },
+  "homepage": "https://github.com/jthansen22/holo-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "eslint": "^4.6.1",
+    "eslint-config-airbnb-base": "^12.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
